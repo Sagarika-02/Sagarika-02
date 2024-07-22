@@ -31,7 +31,7 @@
     <img src="https://www.djangoproject.com/m/img/logos/django-logo-negative.png" alt="django" width="40" height="40"/> 
   </a> 
    <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/opencv/opencv/master/docs/images/opencv_logo.png" alt="opencv" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/OpenCV_Logo.svg" alt="opencv" width="40" height="40"/> 
   </a>
 </p>
 
