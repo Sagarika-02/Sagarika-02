@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagarika Sarkar</h1>
-<h3 align="center">I'm a Computer Science and Engineering undergraduate motivated to explore new technologies and create meaningful software solutions.</h3>
+<h3 align="center">I'm a final-year CSE student who enjoys exploring new technologies and building real-world software projects.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarika-02&label=Profile%20views&color=0e75b6&style=flat" alt="sagarika-02" /> </p>
