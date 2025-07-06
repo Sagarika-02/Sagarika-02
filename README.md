@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sagarika Sarkar</h1>
-<h3 align="center">I am a passionate learner and currently pursuing my B.Tech in Computer Science and Engineering</h3>
+<h3 align="center">I'm a Computer Science and Engineering undergraduate motivated to explore new technologies and create meaningful software solutions.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sagarika-02&label=Profile%20views&color=0e75b6&style=flat" alt="sagarika-02" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sagarika-02" alt="sagarika-02" /></a> </p>
-
-
-- 🔭 I’m currently working on [Auto_Evaluazer](https://github.com/Ricky2054/Auto_Evaluazer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
